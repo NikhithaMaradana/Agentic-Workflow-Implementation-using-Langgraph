@@ -51,6 +51,13 @@ python langgraph_workflow.py
 
 Enter a query:
 
-Plan a budget trip to Japan
+Plan a budget trip to Paris
 
 
+
+Hosted Solution
+
+Test the live agentic workflow here:  
+[https://agentic-workflow-implementation-using-langgraph-qsaokb4thtjf3r.streamlit.app/]  
+
+> Enter a query and let the workflow process it end-to-end.
