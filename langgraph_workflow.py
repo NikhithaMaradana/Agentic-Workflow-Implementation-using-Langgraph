@@ -41,3 +41,10 @@ if __name__ == "__main__":
     result = workflow.invoke({"query": user_query})
     print("\nFinal Result:")
     print(result)
+
+def run_pipeline(query):
+    workflow = build_workflow()  # Create workflow instance
+    result = workflow.invoke({"query": query})  # Use the correct input key here
+    return result
+
+
