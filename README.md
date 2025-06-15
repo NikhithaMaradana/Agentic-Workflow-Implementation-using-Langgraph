@@ -60,4 +60,4 @@ Hosted Solution
 Test the live agentic workflow here:  
 [https://agentic-workflow-implementation-using-langgraph-qsaokb4thtjf3r.streamlit.app/]  
 
-> Enter a query and let the workflow process it end-to-end.
+Enter a query and let the workflow process it end-to-end.
